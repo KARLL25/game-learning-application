@@ -1,2 +1,2 @@
 # game-learning-application
-main scripts for game
+Основные клиентские и серверные скрипты, отвечающие за работу приложения
